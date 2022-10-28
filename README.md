@@ -1,2 +1,2 @@
 # DataStructure
-Data structure array arrayList LinkedList TicTocToe
+Data structure example,TicTocToe, array, arrayList, Singly LinkedList, Doubly LinkedList
